@@ -14,7 +14,9 @@
       {
         "title": "Julia",
         "width": 1280,
-        "height": 720
+        "height": 720,
+        "maximizable": false,
+        "resizable": false
       }
     ],
     "security": {
